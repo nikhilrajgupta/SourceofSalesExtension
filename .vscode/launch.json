@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations":
+     [
+      
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "https://businesscentral.dynamics.com/f35513fd-40e1-49b9-861e-59af9af0914b/",
+            "serverInstance": "sandbox",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}
